@@ -2,7 +2,7 @@
 
 ## Problem
 Last-mile delivery is the most expensive segment of the logistics chain, accounting for up to 53% of total shipping costs. In a high-density urban market like Mumbai, inefficient routing increases fuel costs, delays, and failed delivery attempts. This project models 
-an optimized last-mile delivery network across 3 Mumbai zones (Andheri, Bandra, Kurla) using real road network data from OpenStreetMap.
+an optimized last-mile delivery network across 3 Mumbai zones (Andheri, Bandra, Colaba) using real road network data from OpenStreetMap.
 
 ## Methodology
 1. Downloaded real Mumbai road networks using OSMnx (OpenStreetMap)
